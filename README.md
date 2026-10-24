@@ -1,6 +1,6 @@
 # Hi there, I'm Vansh! 
 
-I am a **1st Year B.Tech student specializing in Artificial Intelligence & Machine Learning**. I love exploring how data can solve real-world problems and I'm currently building my foundation in Computer Science and CyberSecurity.
+I am a **2nd Year B.Tech student specializing in Artificial Intelligence & Machine Learning**. I love exploring how data can solve real-world problems and I'm currently building my foundation in Computer Science and CyberSecurity.
 
 ### About Me
 -  Pursuing B.Tech in AI & ML.
@@ -13,5 +13,3 @@ I am a **1st Year B.Tech student specializing in Artificial Intelligence & Machi
 - **Tools:** VS Code, Git, GitHub, Linux Terminal
 - **Interests:** Machine Learning, Cyber Security, Competitive Programming
 
-###  Current Projects
-- **[OverTheWire-Bandit-Solutions](https://github.com/VanshDuhoon/OverTheWire-Bandit.git):** Documenting my journey through Linux wargames to master the command line.
